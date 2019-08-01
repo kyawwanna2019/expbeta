@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="46px" viewBox="0 0 148 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-46.000000, -27.000000)">
+            <g id="Group-2" transform="translate(46.000000, 27.000000)">
+                <g id="Group-3" transform="translate(59.000000, 4.000000)" fill="#1A2B48">
+                    <text id="HOMAP" font-family="iCielBrandonText-Bold, iCiel Brandon Text" font-size="18" font-weight="bold">
+                        <tspan x="0" y="19">HOMAP</tspan>
+                    </text>
+                    <text id="Hotel-Maketplace" font-family="Poppins-Medium, Poppins" font-size="10" font-weight="400">
+                        <tspan x="1" y="33">Hotel Maketplace</tspan>
+                    </text>
+                </g>
+                <g id="logo" fill="#5191FA">
+                    <path d="M23,2.3 C11.5677057,2.3 2.3,11.5677057 2.3,23 C2.3,34.4322943 11.5677057,43.7 23,43.7 C34.4322943,43.7 43.7,34.4322943 43.7,23 C43.7,11.5677057 34.4322943,2.3 23,2.3 Z M23,0 C35.7025492,-2.33342044e-15 46,10.2974508 46,23 C46,35.7025492 35.7025492,46 23,46 C10.2974508,46 1.55561363e-15,35.7025492 0,23 C-1.55561363e-15,10.2974508 10.2974508,2.33342044e-15 23,0 Z" id="Rectangle-2" fill-rule="nonzero"></path>
+                    <g id="Group" transform="translate(16.100000, 13.800000)">
+                        <path d="M5.75,0 L9.2,0 L9.2,18.4 L5.75,18.4 L5.75,0 Z M3.45,5.75 L-4.4408921e-16,5.75 L4.4408921e-16,0 L3.45,0 L3.45,5.75 Z M14.95,5.75 L11.5,5.75 L11.5,0 L14.95,0 L14.95,5.75 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

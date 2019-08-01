@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="149px" height="50px" viewBox="0 0 149 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-46.000000, -25.000000)">
+            <g id="Group-2" transform="translate(46.000000, 25.000000)">
+                <text id="HOMAP" font-family="iCielBrandonText-Bold, iCiel Brandon Text" font-size="18" font-weight="bold" fill="#1A2B48">
+                    <tspan x="60" y="24">HOMAP</tspan>
+                </text>
+                <text id="Hotel-Maketplace" font-family="Poppins-Medium, Poppins" font-size="10" font-weight="400" fill="#1A2B48">
+                    <tspan x="61" y="38">Hotel Maketplace</tspan>
+                </text>
+                <g id="logo" fill="#5191FA">
+                    <path d="M25,2.5 C12.5735931,2.5 2.5,12.5735931 2.5,25 C2.5,37.4264069 12.5735931,47.5 25,47.5 C37.4264069,47.5 47.5,37.4264069 47.5,25 C47.5,12.5735931 37.4264069,2.5 25,2.5 Z M25,0 C38.8071187,-2.53632657e-15 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 1.69088438e-15,38.8071187 0,25 C-1.69088438e-15,11.1928813 11.1928813,2.53632657e-15 25,0 Z" id="Rectangle-2" fill-rule="nonzero"></path>
+                    <g id="Group" transform="translate(17.500000, 15.000000)">
+                        <path d="M6.25,0 L10,0 L10,20 L6.25,20 L6.25,0 Z M3.75,6.25 L-4.4408921e-16,6.25 L4.4408921e-16,-8.8817842e-16 L3.75,0 L3.75,6.25 Z M16.25,6.25 L12.5,6.25 L12.5,-8.8817842e-16 L16.25,0 L16.25,6.25 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

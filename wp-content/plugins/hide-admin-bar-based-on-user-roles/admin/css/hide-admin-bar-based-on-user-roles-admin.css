@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .rolesList input[type="checkbox"] { margin: 0px 10px 0px 10px;  }
+ 
