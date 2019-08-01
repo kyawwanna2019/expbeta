@@ -1,14 +1,13 @@
 /*
 Theme Name:     Traveler Childtheme
 Description:    
-Author:         Shinetheme
+Author:         Shinetheme, Kyaw Wanna
 Template:       traveler
 
 (optional values you can add: Theme URI, Author URI, Version)
 */
 
 @import url("../traveler/style.css");
-
 
 
 .has-matchHeight h2{
