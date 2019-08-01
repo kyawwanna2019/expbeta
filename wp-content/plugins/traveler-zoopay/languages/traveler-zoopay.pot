@@ -1,0 +1,52 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Traveler\n"
+"POT-Creation-Date: 2019-03-18 09:26+0700\n"
+"PO-Revision-Date: 2017-04-15 08:58+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__(;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: inc/zoopay.php:40
+msgid "URL"
+msgstr ""
+
+#: inc/zoopay.php:43
+msgid "Information connect or Environment test. Url for real: https://zoopay.vn/vpcpay/vpcpay.op, Url for test: https://mtf.zoopay.vn/vpcpay/vpcpay.op"
+msgstr ""
+
+#: inc/zoopay.php:48 inc/zoopay.php:51
+msgid "Merchant ID"
+msgstr ""
+
+#: inc/zoopay.php:56 inc/zoopay.php:59
+msgid "Merchant Access Code"
+msgstr ""
+
+#: inc/zoopay.php:64 inc/zoopay.php:67
+msgid "Security Secret"
+msgstr ""
+
+#: inc/zoopay.php:84
+msgid "This payment only supports THB currency"
+msgstr ""
+
+#: inc/zoopay.php:282
+msgid "Zoopay"
+msgstr ""
+
+#: views/zoopay.php:2
+msgid "Take payments via Zoopay payment (redirect method)."
+msgstr ""

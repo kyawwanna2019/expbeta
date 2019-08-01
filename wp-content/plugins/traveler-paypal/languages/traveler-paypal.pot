@@ -1,0 +1,72 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Traveler\n"
+"POT-Creation-Date: 2019-03-18 09:30+0700\n"
+"PO-Revision-Date: 2017-04-15 08:58+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__(;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: inc/paypal.php:61 inc/paypal.php:111
+msgid "Traveler Booking"
+msgstr ""
+
+#: inc/paypal.php:134
+msgid "Can not get Paypal Authorize URL."
+msgstr ""
+
+#: inc/paypal.php:147
+msgid "Paypal"
+msgstr ""
+
+#: inc/paypal.php:216
+msgid "Paypal Email"
+msgstr ""
+
+#: inc/paypal.php:219
+msgid "Your Payal Email Account"
+msgstr ""
+
+#: inc/paypal.php:224
+msgid "Paypal Enable Sandbox"
+msgstr ""
+
+#: inc/paypal.php:228
+msgid "Allow you to enable sandbox mod for testing"
+msgstr ""
+
+#: inc/paypal.php:233
+msgid "Paypal API Username"
+msgstr ""
+
+#: inc/paypal.php:236
+msgid "Your Paypal API Username"
+msgstr ""
+
+#: inc/paypal.php:241
+msgid "Paypal API Password"
+msgstr ""
+
+#: inc/paypal.php:244
+msgid "Your Paypal API Password"
+msgstr ""
+
+#: inc/paypal.php:249
+msgid "Paypal API Signature"
+msgstr ""
+
+#: inc/paypal.php:252
+msgid "Your Paypal API Signature"
+msgstr ""
