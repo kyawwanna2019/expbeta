@@ -20,7 +20,7 @@
 
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'travster_c6d' );
+define( 'DB_NAME', 'travster_c6d_beta' );
 
 /** MySQL database username */
 define( 'DB_USER', 'travster_c6d' );
